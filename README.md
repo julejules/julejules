@@ -5,7 +5,7 @@
 - 🔭 Atualmente atuo como publicitária
 - 🌱 Estudando front-end
 - 📫 Pode me contatar pelo e-mail: jules.sa333@gmail.com
-- ⚡ Gosto muito de ler blogs aleatórios
+- ⚡ Gosto muito de estudar, principalmente coisas relacionadas a tecnologia
 
 <div>
 <a -href ="https://github.com/julejules">
