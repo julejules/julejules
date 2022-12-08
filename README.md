@@ -10,7 +10,7 @@
 <div>
 <a -href ="https://github.com/julejules">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julejules&show_icons=true&theme=cobalt"/>
- <img height="130em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubrss&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubrss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
