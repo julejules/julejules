@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente atuo como publicitária
-- 🌱 Estudando front-end
+- 🔭 Estudante de Análise e desenvolvimento de sistemas
+- 🌱 Apaixonada por Front-end
 - 📫 Pode me contatar pelo e-mail: jules.sa333@gmail.com
 - ⚡ Gosto muito de estudar, principalmente coisas relacionadas a tecnologia
 
